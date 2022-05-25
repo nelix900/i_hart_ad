@@ -1,0 +1,2 @@
+touch mytest.txt
+echo 'hello, world' > mytest.txt
